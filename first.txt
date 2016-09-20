@@ -1,0 +1,4 @@
+this is my first text
+I would like to add some more to this file to 
+make it working as Git modified
+
